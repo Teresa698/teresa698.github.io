@@ -19,6 +19,6 @@ I'm a graduate student at Columbia University’s Mailman School of Public Healt
 My interests include data science for public health, environmental health, and risk assessment.
 
 - 📧 Email: [qs2301@cumc.columbia.edu](mailto:qs2301@cumc.columbia.edu)
-- 💻 GitHub: [TeresaSha](https://github.com/TeresaSha)
+- 💻 GitHub: [Teresa698](https://github.com/Teresa698)
 
 > This site hosts my coursework, projects, and resume.
