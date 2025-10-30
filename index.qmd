@@ -1,0 +1,24 @@
+---
+title: "welcome"
+author: "Teresa Sha"
+date: "2025-10-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+title: "Welcome"
+---
+
+# Hi, I'm Teresa Sha 👋
+
+I'm a graduate student at Columbia University’s Mailman School of Public Health (EHS program).
+My interests include data science for public health, environmental health, and risk assessment.
+
+- 📧 Email: [qs2301@cumc.columbia.edu](mailto:qs2301@cumc.columbia.edu)
+- 💻 GitHub: [TeresaSha](https://github.com/TeresaSha)
+
+> This site hosts my coursework, projects, and resume.

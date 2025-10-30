@@ -1,0 +1,24 @@
+---
+title: "Resume"
+---
+
+# Teresa Sha
+
+**Email:** [qs2301@cumc.columbia.edu](mailto:qs2301@cumc.columbia.edu)  
+**GitHub:** [TeresaSha](https://github.com/TeresaSha)
+
+## 🎓 Education
+- **Columbia University**, Mailman School of Public Health — Environmental Health Sciences (2025–present)
+- **UC Davis**, B.A. in Economics (with Data Science coursework)
+
+## 💼 Experience
+- Graduate Student — Environmental Health & Data Science projects  
+- Research Assistant — Columbia University  
+- Student Analyst — UC Davis Economics Department  
+
+## 🧠 Skills
+R (tidyverse, ggplot2, lubridate, janitor), Python, GitHub, Quarto, Markdown
+
+## 📂 Projects
+- [P8105 Coursework](https://github.com/TeresaSha/p8105_hw4_qs2301)
+- [P8105 Midterm Project](https://github.com/TeresaSha/p8105_mtp_qs2301)
